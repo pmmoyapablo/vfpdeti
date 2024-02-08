@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/LibHQL"/>
+	<classpathentry kind="lib" path="C:/Users/jmelendez.FACTORY421/workspace/motorVFP2/library/swing-layout-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jmelendez.FACTORY421/Desktop/commonVFP.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+	<referencedentry kind="lib" path="C:/Users/jmelendez.FACTORY421/workspace/motorVFP/dist/lib/externalVFP.jar"/>
+</classpath>

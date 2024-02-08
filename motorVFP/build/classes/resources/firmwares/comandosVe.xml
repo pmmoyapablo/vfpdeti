@@ -1,0 +1,2720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<output>
+<entity>
+  <country>
+   <id>1</id>
+   <description>Venezuela</description>
+  </country>
+  <equipment>
+     <id>1</id>
+     <brand>BIXOLON</brand>
+     <model>SRP-350</model>
+     <register>Z1B1234567</register>
+     <serie>8001234567</serie>
+     <firmware>BIXOLON SRP350 VE1.00</firmware>
+     <papel>300</papel>
+     <idfiscal>J-312171197</idfiscal>
+     <countryid>1</countryid>
+  </equipment>
+  <flag>
+      <id>0</id>
+      <value>0</value>
+      <description>Print messanger error</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>1</id>
+      <value>0</value>
+      <description>Print finally line</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>2</id>
+      <value>0</value>
+      <description>Flag 2</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>3</id>
+      <value>0</value>
+      <description>Flag 3</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>4</id>
+      <value>0</value>
+      <description>Flag 4</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>5</id>
+      <value>0</value>
+      <description>Flag 5</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>6</id>
+      <value>0</value>
+      <description>Flag 6</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>7</id>
+      <value>0</value>
+      <description>Flag 7</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>8</id>
+      <value>0</value>
+      <description>Flag 8</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>9</id>
+      <value>0</value>
+      <description>Flag 9</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>10</id>
+      <value>0</value>
+      <description>Flag 10</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>11</id>
+      <value>0</value>
+      <description>Flag 11</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>12</id>
+      <value>0</value>
+      <description>Flag 12</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>13</id>
+      <value>0</value>
+      <description>Flag 13</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>14</id>
+      <value>0</value>
+      <description>Flag 14</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>15</id>
+      <value>0</value>
+      <description>Flag 15</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>16</id>
+      <value>0</value>
+      <description>Flag 16</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>17</id>
+      <value>0</value>
+      <description>Flag 17</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>18</id>
+      <value>0</value>
+      <description>Flag 18</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>19</id>
+      <value>0</value>
+      <description>Flag 19</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>20</id>
+      <value>0</value>
+      <description>Flag 20</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>21</id>
+      <value>0</value>
+      <description>Flag 21</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>22</id>
+      <value>0</value>
+      <description>Flag 22</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>23</id>
+      <value>0</value>
+      <description>Flag 23</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>24</id>
+      <value>0</value>
+      <description>Flag 24</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>25</id>
+      <value>0</value>
+      <description>Flag 25</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>26</id>
+      <value>0</value>
+      <description>Flag 26</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+    <flag>
+      <id>27</id>
+      <value>0</value>
+      <description>Flag 27</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>28</id>
+      <value>0</value>
+      <description>Flag 28</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>29</id>
+      <value>0</value>
+      <description>Flag 29</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>30</id>
+      <value>0</value>
+      <description>Flag 30</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>310</id>
+      <value>0</value>
+      <description>Flag 31</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>32</id>
+      <value>0</value>
+      <description>Flag 32</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>33</id>
+      <value>0</value>
+      <description>Flag 33</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>34</id>
+      <value>0</value>
+      <description>Flag 34</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>35</id>
+      <value>0</value>
+      <description>Flag 35</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>36</id>
+      <value>0</value>
+      <description>Flag 36</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>37</id>
+      <value>0</value>
+      <description>Flag 37</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>38</id>
+      <value>0</value>
+      <description>Flag 38</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>39</id>
+      <value>0</value>
+      <description>Flag 39</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>40</id>
+      <value>0</value>
+      <description>Flag 40</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>41</id>
+      <value>0</value>
+      <description>Flag 41</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>42</id>
+      <value>0</value>
+      <description>Flag 42</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>43</id>
+      <value>0</value>
+      <description>Flag 43</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>44</id>
+      <value>0</value>
+      <description>Flag 44</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>45</id>
+      <value>0</value>
+      <description>Flag 45</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>46</id>
+      <value>0</value>
+      <description>Flag 46</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>47</id>
+      <value>0</value>
+      <description>Flag 47</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>48</id>
+      <value>0</value>
+      <description>Flag 48</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+  <flag>
+      <id>49</id>
+      <value>0</value>
+      <description>Flag 49</description>
+      <equipmentid>1</equipmentid>
+  </flag>
+    <flag>
+      <id>50</id>
+      <value>0</value>
+      <description>Flag 50</description>
+      <equipmentid>1</equipmentid>
+  </flag>  
+  <flag>
+      <id>51</id>
+      <value>0</value>
+      <description>Flag 51</description>
+      <equipmentid>1</equipmentid>
+  </flag>  
+  <flag>
+      <id>52</id>
+      <value>0</value>
+      <description>Flag 52</description>
+      <equipmentid>1</equipmentid>
+  </flag>  
+  <flag>
+      <id>53</id>
+      <value>0</value>
+      <description>Flag 53</description>
+      <equipmentid>1</equipmentid>
+  </flag>  
+  <flag>
+      <id>54</id>
+      <value>0</value>
+      <description>Flag 54</description>
+      <equipmentid>1</equipmentid>
+  </flag>  
+  <flag>
+      <id>55</id>
+      <value>0</value>
+      <description>Flag 55</description>
+      <equipmentid>1</equipmentid>
+  </flag>  
+  <flag>
+      <id>56</id>
+      <value>0</value>
+      <description>Flag 56</description>
+      <equipmentid>1</equipmentid>
+  </flag>  
+  <flag>
+      <id>57</id>
+      <value>0</value>
+      <description>Flag 57</description>
+      <equipmentid>1</equipmentid>
+  </flag>  
+  <flag>
+      <id>58</id>
+      <value>0</value>
+      <description>Flag 58</description>
+      <equipmentid>1</equipmentid>
+  </flag>  
+  <flag>
+      <id>59</id>
+      <value>0</value>
+      <description>Flag 59</description>
+      <equipmentid>1</equipmentid>
+  </flag>  
+  <flag>
+      <id>60</id>
+      <value>0</value>
+      <description>Flag 60</description>
+      <equipmentid>1</equipmentid>
+  </flag>  
+  <flag>
+      <id>61</id>
+      <value>0</value>
+      <description>Flag 61</description>
+      <equipmentid>1</equipmentid>
+  </flag>  
+  <flag>
+      <id>62</id>
+      <value>0</value>
+      <description>Flag 62</description>
+      <equipmentid>1</equipmentid>
+ </flag>
+   <flag>
+      <id>63</id>
+      <value>0</value>
+      <description>Flag 63</description>
+      <equipmentid>1</equipmentid>
+ </flag>
+  <cashier>
+      <id>0</id>
+      <name>Cashier0</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>1</id>
+      <name>Cashier1</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>2</id>
+      <name>Cashier2</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>3</id>
+      <name>Cashier3</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>4</id>
+      <name>Cashier4</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>5</id>
+      <name>Cashier5</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>6</id>
+      <name>Cashier6</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>7</id>
+      <name>Cashier7</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>8</id>
+      <name>Cashier8</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>9</id>
+      <name>Cashier9</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>10</id>
+      <name>Cashier10</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>10</id>
+      <name>Cashier10</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>11</id>
+      <name>Cashier11</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>12</id>
+      <name>Cashier12</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>13</id>
+      <name>Cashier13</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>14</id>
+      <name>Cashier14</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>15</id>
+      <name>Cashier15</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>16</id>
+      <name>Cashier16</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>17</id>
+      <name>Cashier17</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>18</id>
+      <name>Cashier18</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>19</id>
+      <name>Cashier19</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>20</id>
+      <name>Cashier20</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+   <cashier>
+      <id>21</id>
+      <name>Cashier21</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>22</id>
+      <name>Cashier22</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>23</id>
+      <name>Cashier23</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>24</id>
+      <name>Cashier24</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>25</id>
+      <name>Cashier25</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>26</id>
+      <name>Cashier26</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>27</id>
+      <name>Cashier27</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>28</id>
+      <name>Cashier28</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>29</id>
+      <name>Cashier29</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <cashier>
+      <id>30</id>
+      <name>Cashier30</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+   <cashier>
+      <id>31</id>
+      <name>Cashier31</name>
+      <pass></pass>
+      <equipmentid>1</equipmentid>
+  </cashier>
+  <meanpayment>
+      <id>1</id>
+      <description>EFECTIVO 1</description>
+      <amount>0</amount>
+      <equipmentid>1</equipmentid>
+  </meanpayment>
+  <meanpayment>
+      <id>2</id>
+      <description>EFECTIVO 2</description>
+      <amount>0</amount>
+      <equipmentid>1</equipmentid>
+  </meanpayment>
+  <meanpayment>
+      <id>3</id>
+      <description>EFECTIVO 3</description>
+      <amount>0</amount>
+      <equipmentid>1</equipmentid>
+  </meanpayment>
+  <meanpayment>
+      <id>4</id>
+      <description>EFECTIVO 4</description>
+      <amount>0</amount>
+      <equipmentid>1</equipmentid>
+  </meanpayment>
+  <meanpayment>
+      <id>5</id>
+      <description>EFECTIVO 4</description>
+      <amount>0</amount>
+      <equipmentid>1</equipmentid>
+  </meanpayment>
+  <meanpayment>
+      <id>6</id>
+      <description>EFECTIVO 4</description>
+      <amount>0</amount>
+      <equipmentid>1</equipmentid>
+  </meanpayment>
+  <meanpayment>
+      <id>7</id>
+      <description>CHEQUE 1</description>
+      <amount>0</amount>
+      <equipmentid>1</equipmentid>
+  </meanpayment>
+  <meanpayment>
+      <id>8</id>
+      <description>CHEQUE 2</description>
+      <amount>0</amount>
+      <equipmentid>1</equipmentid>
+  </meanpayment>
+  <meanpayment>
+      <id>9</id>
+      <description>CHEQUE 3</description>
+      <amount>0</amount>
+      <equipmentid>1</equipmentid>
+  </meanpayment>
+  <meanpayment>
+      <id>10</id>
+      <description>CHEQUE 4</description>
+      <amount>0</amount>
+      <equipmentid>1</equipmentid>
+  </meanpayment>
+  <meanpayment>
+      <id>11</id>
+      <description>CHEQUE 5</description>
+      <amount>0</amount>
+      <equipmentid>1</equipmentid>
+  </meanpayment>
+  <meanpayment>
+      <id>12</id>
+      <description>CHEQUE 6</description>
+      <amount>0</amount>
+      <equipmentid>1</equipmentid>
+  </meanpayment>
+  <meanpayment>
+      <id>13</id>
+      <description>TARJETA 1</description>
+      <amount>0</amount>
+      <equipmentid>1</equipmentid>
+  </meanpayment>
+  <meanpayment>
+      <id>14</id>
+      <description>TARJETA 2</description>
+      <amount>0</amount>
+      <equipmentid>1</equipmentid>
+  </meanpayment>
+  <meanpayment>
+      <id>15</id>
+      <description>TARJETA 3</description>
+      <amount>0</amount>
+      <equipmentid>1</equipmentid>
+  </meanpayment>
+  <meanpayment>
+      <id>16</id>
+      <description>TARJETA 4</description>
+      <amount>0</amount>
+      <equipmentid>1</equipmentid>
+  </meanpayment>
+    <meanpayment>
+      <id>17</id>
+      <description>TARJETA 5</description>
+      <amount>0</amount>
+      <equipmentid>1</equipmentid>
+  </meanpayment>
+    <meanpayment>
+      <id>18</id>
+      <description>TARJETA 6</description>
+      <amount>0</amount>
+      <equipmentid>1</equipmentid>
+  </meanpayment>
+    <meanpayment>
+      <id>19</id>
+      <description>TICKET 1</description>
+      <amount>0</amount>
+      <equipmentid>1</equipmentid>
+  </meanpayment>
+    <meanpayment>
+      <id>20</id>
+      <description>TICKET 2</description>
+      <amount>0</amount>
+      <equipmentid>1</equipmentid>
+  </meanpayment>
+    <meanpayment>
+      <id>21</id>
+      <description>TICKET 3</description>
+      <amount>0</amount>
+      <equipmentid>1</equipmentid>
+  </meanpayment>
+    <meanpayment>
+      <id>22</id>
+      <description>TICKET 4</description>
+      <amount>0</amount>
+      <equipmentid>1</equipmentid>
+  </meanpayment>
+    <meanpayment>
+      <id>23</id>
+      <description>TICKET 5</description>
+      <amount>0</amount>
+      <equipmentid>1</equipmentid>
+  </meanpayment>
+    <meanpayment>
+      <id>24</id>
+      <description>TICKET 6</description>
+      <amount>0</amount>
+      <equipmentid>1</equipmentid>
+  </meanpayment>
+  <taxe>
+      <id>0</id>
+      <name>Exento</name>
+      <category>0</category>
+      <custcategory></custcategory>
+      <parenid></parenid>
+      <rate>0.00</rate>
+      <ratecascade>0</ratecascade>
+      <rateoder>0</rateoder>
+      <equipmentid>1</equipmentid>
+  </taxe>
+   <taxe>
+      <id>1</id>
+      <name>TASA G</name>
+      <category>1</category>
+      <custcategory></custcategory>
+      <parenid></parenid>
+      <rate>0.12</rate>
+      <ratecascade>0</ratecascade>
+      <rateoder>0</rateoder>
+      <equipmentid>1</equipmentid>
+  </taxe>
+   <taxe>
+      <id>2</id>
+      <name>TASA R</name>
+      <category>2</category>
+      <custcategory></custcategory>
+      <parenid></parenid>
+      <rate>0.08</rate>
+      <ratecascade>0</ratecascade>
+      <rateoder>0</rateoder>
+      <equipmentid>1</equipmentid>
+  </taxe>
+   <taxe>
+      <id>3</id>
+      <name>TASA A</name>
+      <category>3</category>
+      <custcategory></custcategory>
+      <parenid></parenid>
+      <rate>0.21</rate>
+      <ratecascade>0</ratecascade>
+      <rateoder>0</rateoder>
+      <equipmentid>1</equipmentid>
+  </taxe>
+  <footerheader>
+      <e1>Impresoras Fiscales</e1>
+      <e2>The Factory HKA</e2>
+      <e3>Venezuela</e3>
+      <e4>0212-2375253</e4>
+      <e5></e5>
+      <e6></e6>
+      <e7></e7>
+      <e8></e8>
+      <p1></p1>
+      <p2></p2>
+      <p3></p3>
+      <p4></p4>
+      <p5></p5>
+      <p6></p6>
+      <p7></p7>
+      <p8></p8>
+      <equipmentid>1</equipmentid>
+  </footerheader>
+</entity>
+<comando>
+#if (${comando.getPartIni()} == "P")
+#set ($ite = 0)
+#set ($antChar = "")
+#set ($bandera = 1)
+    #foreach ($char in $comando.getChars())
+        #if($ite == 0)
+            #if ($char == "T" || $char == "t")
+               #set ($bandera = 1)   
+            #else
+               #set ($bandera = 0)
+            #end
+        #elseif($ite == 1)  
+          #if ($bandera == 1)
+            #if ($char == "1" || $char == "2")
+               #set ($bandera = 1)           
+            #else
+               #set ($bandera = 0)
+            #end  
+          #end 
+        #elseif($ite >= 2 || $ite < 6)
+          #if ($bandera == 1)
+                #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6" || $char == "7" || $char == "8" || $char == "9")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end
+          #end
+        #elseif($ite == 6)
+             #if ($bandera == 1)
+                #if ($char == "1" || $char == "2")
+                   #set ($bandera = 1)           
+                #else
+                   #set ($bandera = 0)
+                #end  
+              #end
+        #elseif($ite >= 7 || $ite < 11)
+              #if ($bandera == 1)      
+                #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6" || $char == "7" || $char == "8" || $char == "9")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end             
+              #end
+        #elseif($ite == 11)
+             #if ($bandera == 1)
+                #if ($char == "1" || $char == "2")
+                   #set ($bandera = 1)
+                #else
+                   #set ($bandera = 0)
+                #end  
+              #end
+         #elseif($ite >= 12 || $ite < 16)
+              #if ($bandera == 1)      
+                #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6" || $char == "7" || $char == "8" || $char == "9")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end             
+              #end
+        #else
+        #end
+         #set ($ite = $ite + 1)
+    #end
+    #if ($bandera == 1)
+<id>${comando.getTramaByte()}</id>
+<accion>programar-tasas</accion>
+<tiempo>5</tiempo>
+<descripcion>Programar tasas de impuesto</descripcion>
+    #end
+#end
+</comando>
+<comando>
+#if (${comando.getPartIni()} == " " || ${comando.getPartIni()} == "!" || ${comando.getPartIni()} == '"' || ${comando.getPartIni()} == "#")
+     #set ($ite = 0)
+     #set ($bandera = 1)
+ #foreach ($char in $comando.getChars())
+  #if(18 > $ite)
+     #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6" || $char == "7" || $char == "8" || $char == "9")
+       #set ($bandera = 1 )
+     #else
+       #set ($bandera = 0)
+       #set ($ite = 18)
+     #end
+  #end
+       #set ($ite = $ite + 1)
+ #end
+   #if ($bandera == 1)
+<id>${comando.getTramaByte()}</id>
+<accion>regItemFact</accion>
+<tiempo>5</tiempo>
+<descripcion>Linea de Item TasaX en Factura</descripcion>
+   #end
+#end
+</comando>
+<comando>
+#if (${comando.getPartIni()} == "-" || ${comando.getPartIni()} == "*" || ${comando.getPartIni()} == "/" || ${comando.getPartIni()} == "+")
+     #set ($ite = 0)
+     #set ($bandera = 1)
+ #foreach ($char in $comando.getChars())
+  #if(18 > $ite)
+     #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6" || $char == "7" || $char == "8" || $char == "9")
+       #set ($bandera = 1 )
+     #else
+       #set ($bandera = 0)
+       #set ($ite = 18)
+     #end
+  #end
+       #set ($ite = $ite + 1)
+ #end
+   #if ($bandera == 1)
+<id>${comando.getTramaByte()}</id>
+<accion>anula-item</accion>
+<tiempo>5</tiempo>
+<descripcion>Anulacion de Item TasaX en Factura</descripcion>
+   #end
+#end
+</comando>
+<comando>
+#if (${comando.getPartIni()} == ${comando.getHexaToString('\u0228')})
+<id>${comando.getTramaByte()}</id>
+<accion>anula-itemNC</accion>
+<tiempo>2</tiempo>
+<descripcion>Anulacion de Item TasaX en Nota de Credito</descripcion>
+#end
+</comando>
+<comando>
+<id>4</id>
+<accion>subtotal-display</accion>
+<tiempo>5</tiempo>
+<descripcion>Sub-Totalizar el monto en Display</descripcion>
+</comando>
+<comando>
+#if (${comando.getPartIni()} == "y")
+<id>${comando.getTramaByte()}</id>
+<accion>barcode-foot</accion>
+<tiempo>5</tiempo>
+<descripcion>Codigo de barra en Item de Documento Fiscal</descripcion>
+#end
+</comando>
+<comando>
+#if (${comando.getPartIni()} == "Y")
+<id>${comando.getTramaByte()}</id>
+<accion>barcode-plu</accion>
+<tiempo>5</tiempo>
+<descripcion>Codigo de barra en Pie de Documento Fiscal</descripcion>
+#end
+</comando>
+<comando>
+<id>a</id>
+<accion>viewdatetime-display</accion>
+<tiempo>5</tiempo>
+<descripcion>Ver Fecha y Hora en Display</descripcion>
+</comando>
+<comando>
+<id>b</id>
+<accion>animation-display</accion>
+<tiempo>5</tiempo>
+<descripcion>Rotar Mensaje Comercial en Display</descripcion>
+</comando>
+<comando>
+#if (${comando.getPartIni()} == "c")
+#set ($ite = 0)
+#set ($accion = "")
+#set ($bandera = 1)
+    #foreach ($char in $comando.getChars())
+        #if($ite == 0)
+            #if ($char == "U" || $char == "D")
+               #set ($bandera = 1)
+                #if ($char == "U")
+                   #set ($accion = "setTextLineUp-display")
+                 #elseif ($char == "D")
+                   #set ($accion = "setTextLineDow-display")
+                 #end
+            #else
+               #set ($bandera = 0)
+            #end
+        #elseif($ite >= 1)
+             #if($bandera == 1)
+               #set ($bandera = 1)             
+             #else
+               #set ($bandera = 0)
+             #end
+        #else          
+        #end
+         #set ($ite = $ite + 1)
+    #end
+     #if ($bandera == 1)
+<id>${comando.getTramaByte()}</id>
+<accion>${accion}</accion>
+<tiempo>5</tiempo>
+<descripcion>Programar Mensajes Temporales en Display Arriba o Abajo</descripcion>
+     #end
+#end
+</comando>
+<comando>
+#if (${comando.getPartIni()} == "P")
+#set ($ite = 0)
+#set ($bandera = 1)
+    #foreach ($char in $comando.getChars())
+        #if($ite == 0)
+            #if ($char == "L" || $char == "I")
+               #set ($bandera = 1)
+            #else
+               #set ($bandera = 0)
+            #end
+        #elseif($ite >= 1)
+             #if($bandera == 1)
+               #set ($bandera = 1)             
+             #else
+               #set ($bandera = 0)
+             #end
+        #else          
+        #end
+         #set ($ite = $ite + 1)
+    #end
+     #if ($bandera == 1)
+<id>${comando.getTramaByte()}</id>
+<accion>setTextTradeStatic-display</accion>
+<tiempo>5</tiempo>
+<descripcion>Programar Mensajes Comercial Estatico en Display</descripcion>
+     #end
+#end
+</comando>
+<comando>
+<id>7</id>
+<accion>anula-factura</accion>
+<tiempo>5</tiempo>
+<descripcion>Anulacion de Factura</descripcion>
+</comando>
+<comando>
+<id>0</id>
+<accion>opendrawer</accion>
+<tiempo>10</tiempo>
+<descripcion>Abrir Gaveta</descripcion>
+</comando>
+<comando>
+<id>3</id>
+<accion>subtotal</accion>
+<tiempo>5</tiempo>
+<descripcion>Sub-Totalizar el monto</descripcion>
+</comando>
+<comando>
+#if (${comando.getPartIni()} == "P")
+#set ($ite = 0)
+#set ($antchar = "")
+#set ($bandera = 1)
+    #foreach ($char in $comando.getChars())
+        #if($ite == 0)
+            #if ($char == "A")
+               #set ($bandera = 1)
+            #else
+               #set ($bandera = 0)
+            #end
+        #elseif($ite == 1)
+            #if ($char == "N" || $char == "D")
+               #set ($bandera = 1)
+               #set ($antchar = $char)
+            #else
+               #set ($bandera = 0)
+            #end
+        #elseif($ite == 2)
+          #if ($antchar == "N") 
+            #if ($char == "1" || $char == "2" || $char == "3")
+               #set ($bandera = 1)
+            #else
+               #set ($bandera = 0)
+            #end
+          #else
+            #if ($char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5")
+               #set ($bandera = 1)
+            #else
+               #set ($bandera = 0)
+            #end
+          #end
+        #else          
+        #end
+         #set ($ite = $ite + 1)
+    #end
+     #if ($bandera == 1)
+<id>${comando.getTramaByte()}</id>
+<accion>fiscalizar</accion>
+<tiempo>300</tiempo>
+<descripcion>Prueba Fiscalizacion</descripcion>
+     #end
+#end
+</comando>
+<comando>
+<id>Pa</id>
+<accion>fiscalizar</accion>
+<tiempo>400</tiempo>
+<descripcion>Confirmando Rif Fiscalizacion</descripcion>
+</comando>
+<comando>
+<id>Pb</id>
+<accion>fiscalizar</accion>
+<tiempo>400</tiempo>
+<descripcion>Confirmando Serial Fiscalizacion</descripcion>
+</comando>
+<comando>
+<id>PMFS</id>
+<accion>fiscalizar</accion>
+<tiempo>400</tiempo>
+<descripcion>Confirmando Rif Fiscalizacion</descripcion>
+</comando>
+<comando>
+#if (${comando.getPartIni()} == "P")
+#set ($ite = 0)
+#set ($bandera = 1)
+    #foreach ($char in $comando.getChars())
+        #if($ite == 0)
+            #if ($char == "A")
+               #set ($bandera = 1)
+            #else
+               #set ($bandera = 0)
+            #end
+        #elseif($ite == 1)
+            #if ($char == "R")
+               #set ($bandera = 1)               
+            #else
+               #set ($bandera = 0)
+            #end
+         #elseif($ite == 2)
+            #if ($char == "Z" || $char == "D")
+               #set ($bandera = 1)               
+            #else
+               #set ($bandera = 0)
+            #end
+         #elseif($ite == 3)
+             #if ($char == "4" || $char == "1" || $char == "Z" || $char == "P" || $char == "L" || $char == "6" || $char == "7")
+               #set ($bandera = 1)               
+             #else
+               #set ($bandera = 0)
+             #end
+        #elseif($ite == 4)
+             #if ($char == "A" || $char == "B" || $char == "D")
+               #set ($bandera = 1)               
+             #else
+               #set ($bandera = 0)
+             #end
+        #elseif(4 < $ite || $ite < 12)
+            #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6" || $char == "7" || $char == "8" || $char == "9")
+               #set ($bandera = 1)               
+            #else
+               #set ($bandera = 0)
+            #end
+        #elseif(11 < $ite)
+            #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6" || $char == "7" || $char == "8" || $char == "9" || $char == "J" || $char == "-")
+               #set ($bandera = 1)               
+            #else
+               #set ($bandera = 0)
+            #end
+        #else          
+        #end
+         #set ($ite = $ite + 1)
+    #end
+    #if ($bandera == 1)     
+<id>${comando.getTramaByte()}</id>
+<accion>fiscalizar</accion>
+<tiempo>300</tiempo>
+<descripcion>Prueba Fiscalizacion</descripcion>
+    #end
+#end
+</comando>
+<comando>
+#if (${comando.getPartIni()} == "8")
+#set ($ite = 0)
+#set ($bandera = 1)
+    #foreach ($char in $comando.getChars())
+        #if($ite == 0)
+            #if ($char == "1")
+               #set ($bandera = 1)
+            #else
+               #set ($bandera = 0)
+            #end
+        #elseif($ite == 1)
+          #if($bandera == 1)
+            #if ($char == "0")
+               #set ($bandera = 1)
+            #else
+               #set ($bandera = 0)
+            #end
+          #end
+        #else          
+        #end
+         #set ($ite = $ite + 1)
+    #end
+    #if ($bandera == 1)     
+<id>${comando.getTramaByte()}</id>
+<accion>cierreDNF</accion>
+<tiempo>10</tiempo>
+<descripcion>Cierre Documento No Fiscal</descripcion>
+   #end
+#end
+</comando>
+<comando>
+#if (${comando.getPartIni()} == "8")
+#set ($ite = 0)
+#set ($bandera = 1)
+    #foreach ($char in $comando.getChars())
+        #if($ite == 0)
+            #if ($char == "0")
+               #set ($bandera = 1)
+            #else
+               #set ($bandera = 0)
+            #end
+        #elseif($ite == 1)
+          #if($bandera == 1)
+            #if ($char == "0" || $char == "*" || $char == ">" || $char == "$" || $char == "!" || $char == "¡")
+               #set ($bandera = 1)
+            #else
+               #set ($bandera = 0)
+            #end
+          #end
+        #else          
+        #end
+         #set ($ite = $ite + 1)
+    #end
+    #if ($bandera == 1)     
+<id>${comando.getTramaByte()}</id>
+<accion>lineDNF</accion>
+<tiempo>10</tiempo>
+<descripcion>Linea de Documento No Fiscal</descripcion>
+   #end
+#end
+</comando>
+<comando>
+#if (${comando.getPartIni()} == "P")
+#set ($ite = 0)
+#set ($bandera = 1)
+    #foreach ($char in $comando.getChars())
+        #if($ite == 0)
+            #if ($char == "B")
+               #set ($bandera = 1)
+            #else
+               #set ($bandera = 0)
+            #end
+        #else          
+        #end
+         #set ($ite = $ite + 1)
+    #end
+    #if ($bandera == 1)     
+<id>${comando.getTramaByte()}</id>
+<accion>fiscalizar</accion>
+<tiempo>300</tiempo>
+<descripcion>Prueba Fiscalizacion</descripcion>
+   #end
+#end
+</comando>
+<comando>
+<id>D</id>
+<accion>printprogram</accion>
+<tiempo>30</tiempo>
+<descripcion>Imprimir Programacion</descripcion>
+</comando>
+<comando>
+<id>3</id>
+<accion>printSubtotal</accion>
+<tiempo>5</tiempo>
+<descripcion>Imprimir Subtotal</descripcion>
+</comando>
+<comando>
+#if (${comando.getPartIni()} == "@")
+<id>${comando.getTramaByte()}</id>
+<accion>comentario</accion>
+<tiempo>10</tiempo>
+<descripcion>Comentario en Documento Fiscal</descripcion>
+#end
+</comando>
+<comando>
+<id>k</id>
+<accion>correccion</accion>
+<tiempo>10</tiempo>
+<descripcion>Correccion de Item en Documento Fiscal</descripcion>
+</comando>
+<comando>
+#if (${comando.getPartIni()} == "C")
+#set ($bandera = 1)
+    #if ($bandera == 1)     
+<id>${comando.getTramaByte()}</id>
+<accion>desbloquear</accion>
+<tiempo>300</tiempo>
+<descripcion>Prueba Desbloqueo</descripcion>
+   #end
+#end
+</comando>
+<comando>
+#if (${comando.getPartIni()} == "p")
+#set ($ite = 0)
+#set ($accion = "")
+#set ($bandera = 1)
+#foreach ($char in $comando.getChars())
+        #if($ite == 0)
+            #if ($char == "-" || $char == "+")
+               #set ($bandera = 1)
+                 #if ($char == "-")
+                   #set ($accion = "descPorcentaje")
+                 #else
+                   #set ($accion = "recaPorcentaje")
+                 #end
+            #else
+               #set ($bandera = 0)
+            #end
+        #elseif($ite >= 1 and $ite < 5)  
+          #if ($bandera == 1)
+            #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6" || $char == "7" || $char == "8" || $char == "9")
+               #set ($bandera = 1)
+            #else
+               #set ($bandera = 0)
+            #end  
+          #end 
+        #else
+        #end
+         #set ($ite = $ite + 1)
+    #end
+    #if ($bandera == 1)
+<id>${comando.getTramaByte()}</id>
+<accion>${accion}</accion>
+<tiempo>5</tiempo>
+<descripcion>Ajuste por porcentaje de Item en Documento Fiscal</descripcion>
+#end
+#end
+</comando>
+<comando>
+#if (${comando.getPartIni()} == "q")
+#set ($ite = 0)
+#set ($accion = "")
+#set ($bandera = 1)
+#foreach ($char in $comando.getChars())
+        #if($ite == 0)
+            #if ($char == "-")
+               #set ($bandera = 1)
+                 #if ($char == "-")
+                   #set ($accion = "descQuantity")
+                 #end
+            #elseif ($char == "+")
+                #set ($bandera = 1)
+                #set ($accion = "recaQuantity")
+            #end
+        #elseif($ite >= 1 and $ite < 10)  
+          #if ($bandera == 1)
+            #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6" || $char == "7" || $char == "8" || $char == "9")
+               #set ($bandera = 1)
+            #else
+               #set ($bandera = 0)
+            #end  
+          #end 
+        #else
+        #end
+         #set ($ite = $ite + 1)
+    #end
+    #set ($bandera = 1)<!--Prueba-->
+    #if ($bandera == 1)
+<id>${comando.getTramaByte()}</id>
+<accion>${accion}</accion>
+<tiempo>5</tiempo>
+<descripcion>Descuento por cantidad en Documento Fiscal</descripcion>
+#end
+#end
+</comando>
+<comando><!--En Proceso del iF*, iI* y el iD*-->
+#if (${comando.getPartIni()} == "i")
+    #set ($ite = 0)
+    #set ($bandera = 1)
+    #set ($ant = "")
+    #foreach ($char in $comando.getChars())
+            #if($ite == 0)
+                #if ($char == "R" || $char == "S" || $char == "F" || $char == "I" || $char == "D")
+                   #set ($bandera = 1)
+                #else
+                   #set ($bandera = 0)
+                #end
+            #elseif($ite == 1)  
+              #if ($bandera == 1)          
+                #if ($char == "*")
+                   #set ($bandera = 1)
+                #else
+                   #set ($bandera = 0)
+                #end 
+              #end        
+            #else
+            #end
+            #set ($ite = $ite + 1)
+    #end
+    #if ($bandera == 1)
+<id>${comando.getTramaByte()}</id>
+<accion>programRifOrSocialReason</accion>
+<tiempo>2</tiempo>
+<descripcion>Programar Rif y Razon Social</descripcion>
+    #end
+#end
+</comando>
+<comando>
+#if (${comando.getPartIni()} == "i")
+    #set ($ite = 0)
+    #set ($bandera = 1)
+    #set ($ant = "")
+    #foreach ($char in $comando.getChars())
+            #if($ite == 0)
+                #if ($char == "0")
+                   #set ($bandera = 1)
+                #else
+                   #set ($bandera = 0)
+                #end
+            #elseif($ite == 1)  
+              #if ($bandera == 1)          
+                #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6" || $char == "7" || $char == "8" || $char == "9")
+                   #set ($bandera = 1)
+                #else
+                   #set ($bandera = 0)
+                #end 
+              #end        
+            #else
+            #end
+            #set ($ite = $ite + 1)
+    #end
+    #if ($bandera == 1)
+<id>${comando.getTramaByte()}</id>
+<accion>datoClient</accion>
+<tiempo>2</tiempo>
+<descripcion>Linea de Datos del Cliente en Documento Fiscal</descripcion>
+    #end
+#end
+</comando>
+<comando>
+#if (${comando.getPartIni()} == "P")
+#set ($ite = 0)
+#set ($antChar = "")
+#set ($bandera = 0)
+    #foreach ($char in $comando.getChars())
+        #if($ite == 0)
+            #if ($char == "C")
+               #set ($bandera = 1)
+            #else
+               #set ($bandera = 0)
+            #end
+        #elseif($ite == 1)  
+          #if ($bandera == 1)
+            #if ($char == "0" || $char == "1" || $char == "2" || $char == "3")
+               #set ($bandera = 1)
+               #set ($antChar = $char)
+            #else
+               #set ($bandera = 0)
+            #end  
+          #end 
+        #elseif($ite == 2) 
+          #if ($bandera == 1)  
+             #if ($antChar == "0" || $antChar == "1" || $antChar == "2")
+                #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6" || $char == "7" || $char == "8" || $char == "9")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end  
+             #else
+                #if ($char == "0" || $char == "1")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end  
+             #end
+          #end
+        #elseif($ite >= 3 and $ite < 8)
+              #if ($bandera == 1)  
+                #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6" || $char == "7" || $char == "8" || $char == "9")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end 
+              #end  
+        #else
+        #end
+         #set ($ite = $ite + 1)
+    #end
+    #if ($bandera == 1)
+<id>${comando.getTramaByte()}</id>
+<accion>programar-cajero</accion>
+<tiempo>5</tiempo>
+<descripcion>Programar Cajero</descripcion>
+   #end
+#end
+</comando>
+<comando>
+#if (${comando.getPartIni()} == "P")
+#set ($ite = 0)
+#set ($antChar = "")
+#set ($bandera = 1)
+    #foreach ($char in $comando.getChars())
+        #if($ite == 0)
+            #if ($char == "E")
+               #set ($bandera = 1)
+            #else
+               #set ($bandera = 0)
+            #end
+        #elseif($ite == 1)  
+          #if ($bandera == 1)
+            #if ($char == "0" || $char == "1")
+               #set ($bandera = 1)
+               #set ($antChar = $char)
+            #else
+               #set ($bandera = 0)
+            #end  
+          #end 
+        #elseif($ite == 2) 
+          #if ($bandera == 1)
+            #if ($antChar == "0")
+                #if ($char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6" || $char == "7" || $char == "8" || $char == "9")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end   
+            #else
+                 #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end   
+            #end
+          #end
+        #else
+        #end
+         #set ($ite = $ite + 1)
+    #end
+    #if ($bandera == 1)
+<id>${comando.getTramaByte()}</id>
+<accion>programar-medio</accion>
+<tiempo>5</tiempo>
+<descripcion>Programar nombre de Medio de Pago</descripcion>
+   #end
+#end
+</comando>
+<comando>
+#if (${comando.getPartIni()} == "P")
+#set ($ite = 0)
+#set ($bandera = 1)
+    #foreach ($char in $comando.getChars())
+        #if($ite == 0)
+            #if ($char == "H")
+               #set ($bandera = 1)
+            #else
+               #set ($bandera = 0)
+            #end
+        #elseif($ite == 1)  
+          #if ($bandera == 1)
+            #if ($char == "0" || $char == "9")
+               #set ($bandera = 1)
+            #else
+               #set ($bandera = 0)
+            #end  
+          #end 
+        #elseif($ite == 2) 
+          #if ($bandera == 1)          
+                #if ($char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6" || $char == "7" || $char == "8")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end             
+          #end
+        #else
+        #end
+         #set ($ite = $ite + 1)
+    #end
+    #if ($bandera == 1)
+<id>${comando.getTramaByte()}</id>
+<accion>programar-encabezPie</accion>
+<tiempo>5</tiempo>
+<descripcion>Programar Encabezado y pie de Ticket</descripcion>
+   #end
+#end
+</comando>
+<comando>
+#if (${comando.getPartIni()} == "P")
+#set ($ite = 0)
+#set ($bandera = 1)
+    #foreach ($char in $comando.getChars())
+        #if($ite == 0)
+            #if ($char == "J")
+               #set ($bandera = 1)
+            #else
+               #set ($bandera = 0)
+            #end
+        #elseif($ite == 1)  
+          #if ($bandera == 1)
+            #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5")
+               #set ($bandera = 1)
+            #else
+               #set ($bandera = 0)
+            #end  
+          #end 
+        #elseif($ite == 2) 
+          #if ($bandera == 1)          
+                #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6" || $char == "7" || $char == "8" || $char == "9" || $char == " ")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end             
+          #end
+        #else
+        #end
+         #set ($ite = $ite + 1)
+    #end
+    #if ($bandera == 1)
+<id>${comando.getTramaByte()}</id>
+<accion>programar-flags</accion>
+<tiempo>5</tiempo>
+<descripcion>Programar Bandera</descripcion>
+   #end
+#end
+</comando>
+<comando>
+#if (${comando.getPartIni()} == "1")
+#set ($ite = 0)
+#set ($antChar = "")
+#set ($bandera = 1)
+    #foreach ($char in $comando.getChars())
+        #if($ite == 0)
+            #if ($char == "0" || $char == "1")
+               #set ($bandera = 1)
+               #set ($antChar = $char)
+            #else
+               #set ($bandera = 0)
+            #end
+        #elseif($ite == 1)  
+          #if ($bandera == 1)
+            #if ($antChar == "0")
+                #if ($char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6" || $char == "7" || $char == "8" || $char == "9")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end   
+            #else
+                 #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end   
+            #end
+          #end     
+        #else
+        #end
+         #set ($ite = $ite + 1)
+    #end
+    #if ($bandera == 1)
+<id>${comando.getTramaByte()}</id>
+<accion>pagoDirecto</accion>
+<tiempo>30</tiempo>
+<descripcion>Pago Directo</descripcion>
+    #end
+#end
+</comando>
+<comando>
+#if (${comando.getPartIni()} == "d")
+     #set ($ite = 0)
+     #set ($bandera = 1)
+ #foreach ($char in $comando.getChars())
+   #if(19 > $ite)
+     #if($ite == 0)
+         #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" )
+            #set ($bandera = 1 )
+         #else
+            #set ($bandera = 0)
+            #set ($ite = 19)
+         #end
+     #else
+         #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6" || $char == "7" || $char == "8" || $char == "9")
+           #set ($bandera = 1 )
+         #else
+           #set ($bandera = 0)
+           #set ($ite = 19)
+         #end
+     #end
+   #end
+       #set ($ite = $ite + 1)
+ #end
+   #if ($bandera == 1)
+<id>${comando.getTramaByte()}</id>
+<accion>regItemRefund</accion>
+<tiempo>30</tiempo>
+<descripcion>Registro de Items en Devolucion</descripcion>
+   #end
+#end
+</comando>
+<comando>
+#if (${comando.getPartIni()} == "`")
+     #set ($ite = 0)
+     #set ($bandera = 1)
+ #foreach ($char in $comando.getChars())
+   #if(19 > $ite)
+     #if($ite == 0)
+         #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" )
+            #set ($bandera = 1 )
+         #else
+            #set ($bandera = 0)
+            #set ($ite = 19)
+         #end
+     #else
+         #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6" || $char == "7" || $char == "8" || $char == "9")
+           #set ($bandera = 1 )
+         #else
+           #set ($bandera = 0)
+           #set ($ite = 19)
+         #end
+     #end
+   #end
+       #set ($ite = $ite + 1)
+ #end
+   #if ($bandera == 1)
+<id>${comando.getTramaByte()}</id>
+<accion>regItemDebitNote</accion>
+<tiempo>30</tiempo>
+<descripcion>Registro de Items en Nota de Debito</descripcion>
+   #end
+#end
+</comando>
+<comando>
+#if (${comando.getPartIni()} == "5")
+#set ($ite = 0)
+#set ($bandera = 1)
+    #foreach ($char in $comando.getChars())
+        #if($ite >= 0 || $ite < 6)
+             #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6" || $char == "7" || $char == "8" || $char == "9")
+                    #set ($bandera = 1)
+             #else
+                    #set ($bandera = 0)
+             #end 
+        #else       
+             #set ($bandera = 0)      
+        #end
+         #set ($ite = $ite + 1)
+    #end
+    #if ($bandera == 1)
+<id>${comando.getTramaByte()}</id>
+<accion>iniciar-cajero</accion>
+<tiempo>5</tiempo>
+<descripcion>Iniciar Cajero</descripcion>
+   #end
+#end
+</comando>
+<comando>
+<id>6</id>
+<accion>fin-cajero</accion>
+<tiempo>3</tiempo>
+<descripcion>Finalizar Cajero</descripcion>
+</comando>
+<comando>
+<id>I0X</id>
+<accion>report-x</accion>
+<tiempo>3500</tiempo>
+<descripcion>Reporte X</descripcion>
+</comando>
+<comando>
+<id>I0Z</id>
+<accion>report-z</accion>
+<tiempo>3500</tiempo>
+<descripcion>Reporte Z</descripcion>
+</comando>
+<comando>
+#if (${comando.getPartIni()} == "I")
+#set ($ite = 0)
+#set ($bandera = 1)
+    #foreach ($char in $comando.getChars())
+        #if($ite == 0)
+            #if ($char == "3")
+               #set ($bandera = 1)
+            #else
+               #set ($bandera = 0)
+            #end
+        #elseif($ite == 1)  
+          #if ($bandera == 1)          
+                #if ($char == "A" || $char == "S" || $char == "M")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end   
+          #end
+        #elseif($ite >= 2 and $ite < 4)
+          #if ($bandera == 1)
+               #if ($char == "0")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end   
+          #end
+         #elseif($ite >= 4 and $ite < 8)
+          #if ($bandera == 1)
+               #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6" || $char == "7" || $char == "8" || $char == "9")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end   
+          #end
+        #elseif($ite >= 8 and $ite < 10)
+          #if ($bandera == 1)
+               #if ($char == "0")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end   
+          #end
+         #elseif($ite >= 10 and $ite < 14)
+          #if ($bandera == 1)
+               #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6" || $char == "7" || $char == "8" || $char == "9")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end   
+          #end
+        #else
+        #end
+         #set ($ite = $ite + 1)
+    #end
+    #if ($bandera == 1)
+<id>${comando.getTramaByte()}</id>
+<accion>printReportZNumber</accion>
+<tiempo>1000</tiempo>
+<descripcion>Reporte Memoria fiscal por intervalos Numeros</descripcion>
+ #end
+#end
+</comando>
+<comando>
+<id>S1</id>
+<accion>statusS1</accion>
+<tiempo>1500</tiempo>
+<descripcion>Subir Status S1</descripcion>
+</comando>
+<comando>
+<id>S2</id>
+<accion>statusS2</accion>
+<tiempo>100</tiempo>
+<descripcion>Subir Status S2</descripcion>
+</comando>
+<comando>
+<id>S3</id>
+<accion>statusS3</accion>
+<tiempo>1500</tiempo>
+<descripcion>Subir Status S3</descripcion>
+</comando>
+<comando>
+<id>S4</id>
+<accion>statusS4</accion>
+<tiempo>1800</tiempo>
+<descripcion>Subir Status S4</descripcion>
+</comando>
+<comando>
+<id>S5</id>
+<accion>statusS5</accion>
+<tiempo>200</tiempo>
+<descripcion>Subir Status S5</descripcion>
+</comando>
+<comando>
+<id>S6</id>
+<accion>statusS6</accion>
+<tiempo>100</tiempo>
+<descripcion>Subir Status S6</descripcion>
+</comando>
+<comando>
+<id>S7</id>
+<accion>statusS7</accion>
+<tiempo>100</tiempo>
+<descripcion>Subir Status S7</descripcion>
+</comando>
+<comando>
+<id>S8E</id>
+<accion>statusS8E</accion>
+<tiempo>100</tiempo>
+<descripcion>Subir Status S8E</descripcion>
+</comando>
+<comando>
+<id>S8P</id>
+<accion>statusS8P</accion>
+<tiempo>100</tiempo>
+<descripcion>Subir Status S8P</descripcion>
+</comando>
+<comando>
+<id>SV</id>
+<accion>statusSV</accion>
+<tiempo>100</tiempo>
+<descripcion>Subir Status SV</descripcion>
+</comando>
+<comando>
+<id>U0X</id>
+<accion>dataReportX</accion>
+<tiempo>2000</tiempo>
+<descripcion>Subir X Report Data</descripcion>
+</comando>
+<comando>
+<id>U0Z</id>
+<accion>dataReportZ</accion>
+<tiempo>2000</tiempo>
+<descripcion>Subir Z Report Data</descripcion>
+</comando>
+<comando>
+#if (${comando.getPartIni()} == "U")
+#set ($ite = 0)
+#set ($bandera = 1)
+    #foreach ($char in $comando.getChars())
+        #if($ite == 0)
+            #if ($char == "3")
+               #set ($bandera = 1)
+            #else
+               #set ($bandera = 0)
+            #end
+        #elseif($ite == 1)  
+          #if ($bandera == 1)          
+                #if ($char == "A" || $char == "S" || $char == "M")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end   
+          #end
+        #elseif($ite >= 2 and $ite < 4)
+          #if ($bandera == 1)
+               #if ($char == "0")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end   
+          #end
+         #elseif($ite >= 4 and $ite < 8)
+          #if ($bandera == 1)
+               #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6" || $char == "7" || $char == "8" || $char == "9")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end   
+          #end
+        #elseif($ite >= 8 and $ite < 10)
+          #if ($bandera == 1)
+               #if ($char == "0")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end   
+          #end
+         #elseif($ite >= 10 and $ite < 14)
+          #if ($bandera == 1)
+               #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6" || $char == "7" || $char == "8" || $char == "9")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end   
+          #end
+        #else
+        #end
+         #set ($ite = $ite + 1)
+    #end
+    #if ($bandera == 1)
+<id>${comando.getTramaByte()}</id>
+<accion>dataReportZNumber</accion>
+<tiempo>2000</tiempo>
+<descripcion>Subir Z Report Data por intervalos Numeros</descripcion>
+ #end
+#end
+</comando>
+<comando>
+#if (${comando.getPartIni()} == "U")
+#set ($ite = 0)
+#set ($bandera = 1)
+    #foreach ($char in $comando.getChars())
+        #if($ite == 0)
+            #if ($char == "2")
+               #set ($bandera = 1)
+            #else
+               #set ($bandera = 0)
+            #end
+        #elseif($ite == 1)  
+          #if ($bandera == 1)          
+                #if ($char == "A" || $char == "S" || $char == "M")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end   
+          #end
+         #elseif($ite >= 2 and $ite < 14)
+          #if ($bandera == 1)
+               #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6" || $char == "7" || $char == "8" || $char == "9")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end   
+          #end
+        #else
+        #end
+         #set ($ite = $ite + 1)
+    #end
+    #if ($bandera == 1)
+<id>${comando.getTramaByte()}</id>
+<accion>dataReportZDate</accion>
+<tiempo>2000</tiempo>
+<descripcion>Subir Z Report Data por intervalos Fecha</descripcion>
+ #end
+#end
+</comando>
+<comando>
+#if (${comando.getPartIni()} == "2")
+#set ($ite = 0)
+#set ($antChar = "")
+#set ($bandera = 1)
+    #foreach ($char in $comando.getChars())
+        #if($ite == 0)
+            #if ($char == "0" || $char == "1")
+               #set ($bandera = 1)
+               #set ($antChar = $char)
+            #else
+               #set ($bandera = 0)
+            #end
+        #elseif($ite == 1)  
+          #if ($bandera == 1)
+            #if ($antChar == "0")
+                #if ($char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6" || $char == "7" || $char == "8" || $char == "9")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end   
+            #else
+                 #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end   
+            #end
+          #end
+        #elseif($ite >= 2 and $ite < 14)
+          #if ($bandera == 1)
+               #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6" || $char == "7" || $char == "8" || $char == "9")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end   
+          #end
+        #else
+        #end
+         #set ($ite = $ite + 1)
+    #end
+    #if ($bandera == 1)
+<id>${comando.getTramaByte()}</id>
+<accion>parcial-factura</accion>
+<tiempo>30</tiempo>
+<descripcion>Pago parcial</descripcion>
+   #end
+#end
+</comando>
+<comando>
+#if (${comando.getPartIni()} == "f")
+#set ($ite = 0)
+#set ($antChar = "")
+#set ($bandera = 1)
+    #foreach ($char in $comando.getChars())
+        #if($ite == 0)
+            #if ($char == "0" || $char == "1")
+               #set ($bandera = 1)
+               #set ($antChar = $char)
+            #else
+               #set ($bandera = 0)
+            #end
+        #elseif($ite == 1)  
+          #if ($bandera == 1)
+            #if ($antChar == "0")
+                #if ($char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6" || $char == "7" || $char == "8" || $char == "9")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end   
+            #else
+                 #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end   
+            #end
+          #end
+        #elseif($ite >= 2 and $ite < 14)
+          #if ($bandera == 1)
+               #if ($char == "0" || $char == "1" || $char == "2" || $char == "3" || $char == "4" || $char == "5" || $char == "6" || $char == "7" || $char == "8" || $char == "9" || $char == "-")
+                    #set ($bandera = 1)
+                #else
+                    #set ($bandera = 0)
+                #end   
+          #end
+        #else
+        #end
+         #set ($ite = $ite + 1)
+    #end
+    #if ($bandera == 1)
+<id>${comando.getTramaByte()}</id>
+<accion>factura</accion>
+<tiempo>30</tiempo>
+<descripcion>Pago parcial Devolucion</descripcion>
+   #end
+#end
+</comando>
+<display> 
+    
+        <line>
+            #if (${ticket.printTotal()} != "Bs 0,00")
+            <text align="left" length="5">TOTAL</text>
+            <text align="right" length="15">${ticket.printTotal()}</text>
+            #else
+            <text align="left" length="20">Documento No Fiscal</text>
+            #end
+        </line>    
+        <line>
+           <text align="center" length="20">Muchas Gracias</text>
+        </line>   
+</display>
+<ticket>
+       
+        <line></line>
+        <line size="2">
+            <text align="center" length="21" bold="true">SENIAT</text>
+        </line>
+         <image>Printer.Ticket.Logo</image>
+         <line></line>
+        <line>
+            <text align="center" length="42" bold="true">RIF ${ticket.printIdFiscal()}</text>
+        </line>
+         #if (${ticket.printEncabticket()})       
+          #foreach ($lineText in $ticket.printEncabticket())
+            #if($lineText != "")
+                <line>
+                    <text align="center" length="42">$lineText</text>
+                </line>
+            #end
+          #end
+         #end
+    #if (${ticket.getTicketType()} == 4)<!--z>Si es un reporte X </z-->
+       <line>
+            <text align="left" length="30">${ticket.getNameType()}:</text>
+            <text>${ticket.getTicketId()}</text>
+        </line>
+           <line>
+            <text bold="true">Pagos</text>
+        </line>
+        <line>
+            <text align ="right" length="42">Total</text>
+        </line>
+        <line>
+            <text>-------------------------------------------</text>
+        </line> 
+        #foreach ($line in $ticket.printLinesNoFiscal())
+        <line>
+            <text align ="left" length="32">${line}</text>
+            <text align ="right" length="10">NO FISCAL</text>
+        </line> 
+        #end
+        <line>
+            <text>------------------------------------------</text>
+        </line> 
+        
+        <line>
+            <text align ="left" length="32">Pagos Realizados:</text>
+            <text align ="right" length="10">${payments.printPayments()}</text>
+        </line>
+        <line></line>
+        <line size="1">
+            <text align ="left" length="32" bold="true">Total</text>
+            <text align ="right" length="10" bold="true">${payments.printPaymentsTotal()}</text>
+        </line>
+        
+
+        <line></line>
+        <line>
+            <text bold="true">Impuestos</text>
+        </line>
+        <line>
+            <text align ="right" length="32">Sub-Total</text>
+            <text align ="right" length="10">Total</text>
+        </line>
+        <line>
+            <text>------------------------------------------</text>
+        </line>
+        #foreach ($line in $payments.getSaleLines())
+        <line>
+            <text align ="left" length="22">${line.printTax()}</text>
+            <text align ="right" length="10">${line.printSubtotal()}</text>
+            <text align ="right" length="10">${line.printTotal()}</text>
+        </line> 
+        #end        
+        <line>
+            <text>------------------------------------------</text>
+        </line> <line size="1">
+            <text align ="left" length="22" bold="true">Total</text>
+            <text align ="right" length="10" bold="true">${payments.printSalesSubtotal()}</text>
+            <text align ="right" length="10" bold="true">${payments.printSalesTotal()}</text>
+        </line>
+
+        <line></line>
+        <line>
+            <text length="18">Maquina:</text>
+            <text>${payments.printHost()}</text>
+        </line>    
+        <line>
+            <text length="18">Fecha Inicio:</text>
+            <text>${payments.printDateStart()}</text>
+        </line>  
+        <line>
+            <text length="18">Fecha Fin:</text>
+            <text>${payments.printDateEnd()}</text>
+        </line>
+    #elseif (${ticket.getTicketType()} == 5)<!--Si es un reporte Z -->
+       <line>
+            <text align="center" length="42">REPORTE Z</text>
+       </line>       
+        <line>
+            <text align="left" length="21">${ticket.getNameType()}:</text>
+            <text align="right" length="21">00${payments.printCountReport()}</text>
+        </line>
+        <line>
+            <text align="left" length="21">FECHA: ${ticket.printDate()}</text>
+            <text align="right" length="21">HORA: ${ticket.printHour()}</text>
+        </line> 
+        <line>
+            <text>------------------------------------------</text>
+        </line>   
+        <line>
+            <text align ="center" length="42">MEDIOS DE PAGO</text>
+        </line>    
+        <line>
+            <text align="left" length="30">${ticket.getNameType()}:</text>
+            <text>${ticket.getTicketId()}</text>
+        </line>
+           <line>
+            <text bold="true">Pagos</text>
+        </line>
+        <line>
+            <text align ="right" length="42">Total</text>
+        </line>
+        <line>
+            <text>------------------------------------------</text>
+        </line>         
+        <line>
+            <text align ="left" length="32">Pagos Realizados:</text>
+            <text align ="right" length="10">${payments.printPayments()}</text>
+        </line>
+        <line></line>
+        <line size="1">
+            <text align ="left" length="32" bold="true">Total</text>
+            <text align ="right" length="10" bold="true">${payments.printPaymentsTotal()}</text>
+        </line>      
+        <line>
+            <text bold="true">Impuestos</text>
+        </line>
+        <line>
+            <text align ="right" length="32">Sub-Total</text>
+            <text align ="right" length="10">Total</text>
+        </line>
+        <line>
+            <text>------------------------------------------</text>
+        </line>
+        #foreach ($line in $payments.getSaleLines())
+        <line>
+            <text align ="left" length="22">${line.printTax()}</text>
+            <text align ="right" length="10">${line.printSubtotal()}</text>
+            <text align ="right" length="10">${line.printTotal()}</text>
+        </line> 
+        #end        
+        <line>
+            <text>------------------------------------------</text>
+        </line> <line size="1">
+            <text align ="left" length="22" bold="true">Total</text>
+            <text align ="right" length="10" bold="true">${payments.printSalesSubtotal()}</text>
+            <text align ="right" length="10" bold="true">${payments.printSalesTotal()}</text>
+        </line>
+        <line>
+            <text length="18">Maquina:</text>
+            <text>${payments.printHost()}</text>
+        </line>    
+        <line>
+            <text length="18">Fecha Inicio:</text>
+            <text>${payments.printDateStart()}</text>
+        </line>  
+        <line>
+            <text length="18">Fecha Fin:</text>
+            <text>${payments.printDateEnd()}</text>
+        </line>    
+        <line>
+            <text>------------------------------------------</text>
+        </line>         
+        <line>
+            <text align ="center" length="42">VENTAS</text>
+        </line>        
+        <line>
+            <text>------------------------------------------</text>
+        </line>         
+        <line>
+            <text align ="center" length="42">DOCUMENTOS NO FISCALES</text>
+        </line>        
+        <line>
+            <text>------------------------------------------</text>
+        </line>         
+        <line>
+            <text align ="center" length="42">RECARGOS</text>
+        </line>        
+        <line>
+            <text>------------------------------------------</text>
+        </line>         
+        <line>
+            <text align ="center" length="42">ANULACIONES</text>
+        </line>        
+        <line>
+            <text>------------------------------------------</text>
+        </line>         
+        <line>
+            <text align ="center" length="42">CORRECCIONES</text>
+        </line>
+        <line>
+            <text>------------------------------------------</text>
+        </line>
+                <line>
+            <text align ="center" length="42">VENTAS</text>
+        </line>
+        <line>
+            <text>------------------------------------------</text>
+        </line>        <line>
+            <text align ="center" length="42">NOTAS DE DEBITO</text>
+        </line>
+        <line>
+            <text>------------------------------------------</text>
+        </line>        <line>
+            <text align ="center" length="42">NOTAS DE CREDITO</text>
+        </line>
+        <line>
+            <text>------------------------------------------</text>
+        </line>     
+        <line>
+            <text>------------------------------------------</text>
+        </line>  
+        <line>
+            <text length="18">Maquina:</text>
+            <text>${payments.printHost()}</text>
+        </line>    
+        <line>
+            <text length="18">Fecha Inicio:</text>
+            <text>${payments.printDateStart()}</text>
+        </line>  
+        <line>
+            <text length="18">Fecha Fin:</text>
+            <text>${payments.printDateEnd()}</text>
+        </line>      
+    #elseif (${ticket.getTicketType()} == 6)<!--Si es un Reporte de Memoria Fiscal--> 
+        <line>
+            <text align="left" length="30">${ticket.getNameType()}:</text>
+            <text align ="right" length="12">${ticket.printId()}</text>
+        </line>
+      #foreach ($payments in $paymentsList)
+         <line>
+            <text align="left" length="2" bold="true">Z:</text>
+            <text bold="true">00${payments.printCountReport()}</text>
+        </line>
+           <line>
+            <text bold="true">Pagos</text>
+        </line>
+        <line>
+            <text align ="right" length="42">Total</text>
+        </line>
+        <line>
+            <text>------------------------------------------</text>
+        </line> 
+        #foreach ($line in $payments.getPaymentLines())
+        <line>
+            <text align ="left" length="32">${line.printType()}</text>
+            <text align ="right" length="10">${line.printValue()}</text>
+        </line> 
+        #end
+        <line>
+            <text>------------------------------------------</text>
+        </line> 
+        
+        <line>
+            <text align ="left" length="32">Pagos Realizados:</text>
+            <text align ="right" length="10">${payments.printPayments()}</text>
+        </line>
+        <line size="1">
+            <text align ="left" length="32" bold="true">Total</text>
+            <text align ="right" length="10" bold="true">${payments.printPaymentsTotal()}</text>
+        </line>    
+        <line>
+            <text bold="true">Impuestos</text>
+        </line>
+        <line>
+            <text align ="right" length="32">Sub-Total</text>
+            <text align ="right" length="10">Total</text>
+        </line>
+        <line>
+            <text>------------------------------------------</text>
+        </line>
+        #foreach ($line in $payments.getSaleLines())
+        <line>
+            <text align ="left" length="22">${line.printTax()}</text>
+            <text align ="right" length="10">${line.printSubtotal()}</text>
+            <text align ="right" length="10">${line.printTotal()}</text>
+        </line> 
+        #end        
+        <line>
+            <text>------------------------------------------</text>
+        </line> <line size="1">
+            <text align ="left" length="22" bold="true">Total</text>
+            <text align ="right" length="10" bold="true">${payments.printSalesSubtotal()}</text>
+            <text align ="right" length="10" bold="true">${payments.printSalesTotal()}</text>
+        </line>
+
+        <line></line>
+        <line>
+            <text length="18">Maquina:</text>
+            <text>${payments.printHost()}</text>
+        </line>    
+        <line>
+            <text length="18">Fecha Inicio:</text>
+            <text>${payments.printDateStart()}</text>
+        </line>  
+        <line>
+            <text length="18">Fecha Fin:</text>
+            <text>${payments.printDateEnd()}</text>
+        </line>
+      #end       
+    #elseif (${ticket.getTicketType()} == 7)<!--Documento No fiscal-->
+        <line>
+            <text align="center" length="42" bold="false">${ticket.getNameType()}</text>
+        </line>
+        <line>
+            <text align="left" length="21">${ticket.getNameType()}:</text>
+            <text align="right" length="21">${ticket.printId()}</text>
+        </line>
+        <line>
+            <text align="left" length="21">FECHA: ${ticket.printDate()}</text>
+            <text align="right" length="21"> HORA: ${ticket.printHour()}</text>
+        </line>  
+        <line>
+            <text>-----------------------------------------</text>
+        </line>
+         #set ($ite = 1)
+         #set ($w = 4)
+          #foreach ($line in $ticket.printLinesNoFiscal())
+           <line>
+              #if($ite == 1)
+              <text align ="center" length="42">$line</text>
+              #else
+              <text align ="left" length="42">$line</text>
+              #end
+           </line> 
+            #if($w == 4)
+                    <line>
+                        <text align="center" length="42" bold="true">NO FISCAL</text>
+                    </line>
+                     #set ($w = 0)
+            #end
+             #set ($ite = $ite + 1)
+             #set ($w = $w + 1)
+          #end
+    #else <!--Documento Fiscal (Facturas, Notas de crédito y Notas de débito)-->
+        #if ($ticket.getCustomer())
+           #foreach ($lineText in $ticket.printCustomer())
+             #if ($lineText != "")
+           <line>
+               <text align="left" length="42">$lineText</text>
+           </line>
+             #end
+           #end
+        #end
+        <line>
+            <text align="center" length="42" bold="false">${ticket.getNameType()}</text>
+        </line>
+        #if ($place != "")
+        <line>
+            <text align="left" length="15">Table:</text>
+            <text>${place}</text>
+        </line>  
+        #end
+        #if (${ticket.getTicketType()} == 1)
+        <line>
+            <text align="left" length="21">${ticket.getNameType()}:</text>
+            <text align="right" length="21">${ticket.printId()}</text>
+        </line>
+        #end
+        #if (${ticket.getTicketType()} == 2)
+        <line>
+            <text align="left" length="21">${ticket.getNameType()}:</text>
+            <text align="right" length="21">${ticket.printId()}</text>
+        </line>
+        #end
+         #if (${ticket.getTicketType()} == 3)
+        <line>
+            <text align="left" length="21">${ticket.getNameType()}:</text>
+            <text align="right" length="21">${ticket.printId()}</text>
+        </line>
+        #end
+        <line>
+            <text align="left" length="21">FECHA: ${ticket.printDate()}</text>
+            <text align="right" length="21"> HORA: ${ticket.printHour()}</text>
+        </line>  
+        <line>
+            <text>------------------------------------------</text>
+        </line>       
+        #set ($ite = 0)
+        #foreach ($ticketline in $ticket.getLines())
+            #if (${ticketline.isAnulado()})
+            <line>
+                <text align="left" length="42">ANULACION</text> 
+            </line>
+            #end
+            #if (${ticketline.isCorrection()})
+            <line>
+                <text align="left" length="42">CORRECCION</text> 
+            </line>
+            #end
+             #foreach ($comment in $ticketline.printCommentsLines())
+                #if ($comment != "")
+            <line>
+                <text align="left" length="42">$comment</text> 
+            </line>
+                #end
+             #end                                                
+             #if (${ticketline.printMultiply()})
+                #if (${ticketline.printMultiply()} != "1,0")
+            <line>            
+                    <text align ="left" length="42">${ticketline.printMultiply()}x${ticketline.printPrice()}</text>
+            </line>
+                #end
+             #end
+             #if (${ticketline.printProductCode()})
+             <line>
+                <text align ="left" length="42">${ticketline.printProductCode()}</text>
+            </line>
+             #end         
+             #if (${ticketline.printNameHigher()})
+            <line>
+                <text align ="left" length="42">${ticketline.printNameHigher()}</text>
+            </line>
+             #end         
+             <line>
+             #if (${ticketline.isProductCom()})
+                 <text align ="left" length="24">*${ticketline.printName()}</text>
+             #else
+                 <text align ="left" length="24">${ticketline.printName()}</text>
+             #end
+                 <text align ="right" length="18">${ticketline.printSubValue()}</text>
+             </line>     
+            #if (${ticketline.getBarcode()} != "") 
+                #if (${ticketline.getTypeBarcode()} == "EAN13")
+                    #if (${ticketline.getPosition()} == "bottom")
+                    <barcode type="EAN13" position="bottom">${ticketline.getBarcode()}</barcode>
+                    #else
+                    <barcode type="EAN13" position="none">${ticketline.getBarcode()}</barcode>
+                    #end                
+                #elseif (${ticketline.getTypeBarcode()} == "CODE128")
+                    #if (${ticketline.getPosition()} == "bottom")
+                    <barcode type="CODE128" position="bottom">${ticketline.getBarcode()}</barcode>
+                    #else
+                    <barcode type="CODE128" position="none">${ticketline.getBarcode()}</barcode>
+                    #end                
+                #end
+            #end       
+             #if (${ticketline.getProductAttSetInstId()} && ${ticketline.getRechargeAmount()})
+            <line>
+                    <text align ="left" length="21">${ticketline.getProductAttSetInstDesc()}</text>
+                    <text align ="right" length="21">Bs ${ticketline.printAmount()}</text>
+            </line>
+             #elseif (${ticketline.getProductAttSetInstId()} && ${tickbetline.getDiscountAmount()})
+            <line>
+                    <text align ="left" length="21">${ticketline.getProductAttSetInstDesc()}</text>
+                    <text align ="right" length="21">Bs ${ticketline.printDiscountAmount()}</text>
+            </line>      
+             #end 
+            <!--Imprime correccion al recargo/desc del producto-->
+            #if (${ticketline.isAdjustmentCorrected()})
+            <line>
+                    <text align ="left" length="42">CORRECCION</text>
+            </line> 
+            <line>
+                    <text align ="left" length="21">${ticketline.getNombreAdjustmentCorrected()}</text>
+                    <text align ="right" length="21">Bs ${ticketline.printAmountAdjustmentCorrected()}</text>
+            </line> 
+            #end
+             
+             #if ($ticket.printSubtotalList().get($ite) != "")
+            <line>
+                <text>------------------------------------------</text>
+            </line>              
+            <line>
+                <text align ="left" length="21">SUBTTL</text> 
+                <text align ="right" length="21">${ticket.printSubtotalList().get($ite)}</text>                   
+            </line>
+                #if ($ticket.printTypeAdjustment().get($ite) != "")
+                    <line>
+                            <text align ="left" length="21">${ticket.printTypeAdjustment().get($ite)}</text>
+                            #if ($ticket.printRechargeAmount().get($ite) != "")                     
+                            <text align ="right" length="21">${ticket.printRechargeAmount().get($ite)}</text>
+                            #elseif ($ticket.printDiscountAmount().get($ite) != "")
+                            <text align ="right" length="21">${ticket.printDiscountAmount().get($ite)}</text>
+                            #end
+                    </line>
+                    #if (${ticket.getNameAdjustmentCorrected().size()} > $ite)                        
+                        #if ($ticket.getNameAdjustmentCorrected().get($ite) != "")
+                        <line>
+                                <text align ="left" length="42">CORRECCION</text>
+                        </line> 
+                        <line>
+                                <text align ="left" length="21">${ticket.printNameAdjustmentCorrected().get($ite)}</text>
+                                <text align ="right" length="21">Bs ${ticket.printAmountAdjustmentCorrected($ite)}</text>
+                        </line> 
+                        #end
+                    #end
+                #end
+            #end
+            #set ($ite = $ite + 1)
+        #end
+        <line>
+             <text>------------------------------------------</text>
+        </line>
+  #if($ticket.printLinesNoFiscal())<!-->Anulacion de Documento<-->
+        #foreach ($line in $ticket.printLinesNoFiscal())
+         <line>
+            <text align="center" length="42" bold="true">${line}</text>
+         </line>
+        #end  
+  #else 
+        #set ($ite = 0)
+	#foreach ($tax in $ticket.printTotalValuesTaxes())
+        #if ($ticket.printBaseAmountForTax($ite) != "Bs 0,00")
+	<line>
+            <text align ="left" length="14">${ticket.printBaseName().get($ite)}</text>
+            <text align ="right" length="28">${ticket.printBaseAmountForTax($ite)}</text>
+	</line>
+        #end        
+            #if ($tax != "")
+            #if ($ticket.printTotalValuesTaxes().get($ite) != "Bs 0,00")
+            <line>
+                <text align ="left" length="14">${ticket.printTaxName().get($ite)}</text>
+                <text align ="right" length="28">${ticket.printTotalValuesTaxes().get($ite)}</text>
+            </line> 
+            #end
+            #end
+            #set ($ite = $ite + 1)
+	#end
+        <line>
+             <text>------------------------------------------</text>
+        </line> 
+        #if (${ticket.printFinalIva()} != "Bs 0,00")
+        <line>
+             <text align ="left" length="14">SUBTTL</text>
+             <text align ="right" length="28">${ticket.printFinalSubtotal()}</text>
+        </line>
+        <line>
+             <text align ="left" length="14">IVA</text>
+             <text align ="right" length="28">${ticket.printFinalIva()}</text>
+        </line>
+        <line>
+             <text>------------------------------------------</text>
+        </line> 
+        #end
+        <line>
+            <text align ="left" length="21" bold="true">TOTAL</text>
+            <text align ="right" length="21" bold="true">${ticket.printTotal()}</text>
+        </line>    
+        #foreach ($paymentline in $ticket.getPayments())      
+        <line>
+             <text align="left" length="21">${paymentline.getName()}</text>
+             <text align ="right" length="21">Bs ${paymentline.printPaid()}</text>
+         </line>         
+         #end 
+         #if ($ticket.getChange() != 0.0)
+           <line>
+               <text align="left" length="21">CAMBIO</text>
+               <text align ="right" length="21">Bs ${ticket.printChange()}</text>
+           </line>   
+         #end
+         #if (${ticket.getBarcode()} != "") 
+            #if (${ticket.getTypeBarcode()} == "EAN13")
+                #if (${ticket.getPosition()} == "bottom")
+                <barcode type="EAN13" position="bottom">${ticket.getBarcode()}</barcode>
+                #else
+                <barcode type="EAN13" position="none">${ticket.getBarcode()}</barcode>
+                #end                
+            #elseif (${ticket.getTypeBarcode()} == "CODE128")
+                #if (${ticket.getPosition()} == "bottom")
+                <barcode type="CODE128" position="bottom">${ticket.getBarcode()}</barcode>
+                #else
+                <barcode type="CODE128" position="none">${ticket.getBarcode()}</barcode>
+                #end                
+            #end
+         #end           
+         #if (${ticket.printUser()} > 0)
+        <line>
+            <text align="left" length="21">Cajero:</text>
+            <text>${ticket.printUser()}</text>
+        </line> 
+         #end
+     #end
+       #if (${ticket.getTicketType()} == 1 || ${ticket.getTicketType()} == 2 || ${ticket.getTicketType()} == 3)
+        #if (${ticket.printPieticket()})       
+          #foreach ($lineText in $ticket.printPieticket())
+            #if($lineText != "")
+                <line>
+                    <text align="center" length="42">$lineText</text>
+                </line>
+            #end
+          #end
+         #end
+       #end        
+  #end
+  #if (${ticket.getTicketType()} == 7)
+       <line>
+            <text align="left" length="27">NO FISCAL</text>
+            <text align="right" length="15">${ticket.printNumberRegister()}</text>
+       </line>
+  #else 
+       <line>
+            <text align="left" length="21" italic="true">MH</text>
+            <text align="right" length="21">${ticket.printNumberRegister()}</text>
+       </line> 
+  #end
+</ticket>
+</output>
